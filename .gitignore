@@ -1,0 +1,14 @@
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# Java
+*.class
+
+# Node / frontend
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
